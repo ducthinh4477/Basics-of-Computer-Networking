@@ -1,0 +1,10 @@
+# Large installers / zip
+*.exe
+*.zip
+
+# Packet Tracer & labs
+Packet_tracer/
+drive-download-*/
+
+# OS temp
+~WRL*.tmp
